@@ -7,17 +7,18 @@ These repositories are a part of a course led by [Doron Feldman](https://github.
 ## Course Topics
 1. Advanced Hooks
    * Examples - [react-advanced-hooks](https://github.com/gotech-io/react-advanced-hooks)
-   * Practice - [react-practice-06](https://github.com/gotech-io/react-practice-06)  ⬅ **You are here**
+   * Practice - [react-practice-06](https://github.com/gotech-io/react-practice-06)
 2. React Design Patterns
    * Examples - [react-design-patterns](https://github.com/gotech-io/react-design-patterns)
+   * Practice - [react-practice-07](https://github.com/gotech-io/react-practice-07)  ⬅ **You are here**
 3. How React Works?
 4. React Performance
    * Examples - [react-performance](https://github.com/gotech-io/react-performance)
-   * Practice - [react-practice-07](https://github.com/gotech-io/react-practice-07)
+   * Practice - [react-practice-08](https://github.com/gotech-io/react-practice-08)
 5. Global State Management
    * Examples - [react-global-state-management](https://github.com/gotech-io/react-global-state-management)
-   * Practice Redux - [react-practice-08](https://github.com/gotech-io/react-practice-08)
-   * Practice MobX - [react-practice-09](https://github.com/gotech-io/react-practice-09)
+   * Practice Redux - [react-practice-09](https://github.com/gotech-io/react-practice-09)
+   * Practice MobX - [react-practice-10](https://github.com/gotech-io/react-practice-10)
 6. Project Structure - Reusability and Scale
    * Examples - [react-project-structure](https://github.com/gotech-io/react-project-structure)
 
